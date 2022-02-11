@@ -64,7 +64,7 @@ plugins: [
 ]
 ```
 
-### ### **data**
+### **helpers**
 Handlebars custom helpers, add your own in *helpers.js* as a property of the helpers object
 
 ### **partials**
